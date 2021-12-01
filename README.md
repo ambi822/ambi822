@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ambi822
 - 👀 I’m interested in Cloud computing
-- 🌱 I’m currently learning Azure administrtion
+- 🌱 I’m currently learning Azure administration
 - 💞️ I’m looking to collaborate on Live Azure Projects.
 - 📫 How to reach me www.linkedin.com/in/ambika-das-65458a101
 
